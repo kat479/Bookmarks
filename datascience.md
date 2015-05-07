@@ -8,4 +8,4 @@
  1.[Time Series Analysis](http://people.duke.edu/~rnau/411arim.htm)
  
 ###Michigan's
- 1.Michigan's [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php)
+ 1.[Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php)
