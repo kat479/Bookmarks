@@ -8,6 +8,8 @@
  
  4.[Mining Massive Datasets](https://www.coursera.org/course/mmds) along with the [book](http://infolab.stanford.edu/~ullman/mmds/bookL.pdf)
  
+ 5.[Natural Language Processing](https://www.coursera.org/course/nlp)
+ 
 ###Harvard's 
  1.[CS109 Data Science](http://cs109.github.io/2014/)
  
