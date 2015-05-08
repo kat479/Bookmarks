@@ -4,7 +4,7 @@
  
  2.[Neural Networks](https://www.coursera.org/course/neuralnets)
  
- 3.[Introduction to Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/) with applications for R, along with the [book](http://www-bcf.usc.edu/~gareth/ISL/).For adavenced learning, try this [book](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
+ 3.[Introduction to Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/) with applications for R, along with the [book](http://www-bcf.usc.edu/~gareth/ISL/).For advanced learning, try this [book](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
  
  4.[Mining Massive Datasets](https://www.coursera.org/course/mmds) along with the [book](http://infolab.stanford.edu/~ullman/mmds/bookL.pdf)
  
